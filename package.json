@@ -1,8 +1,9 @@
 {
+
   "name": "clima",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/perezguedesmaikel/clima",
+  "homepage": "https://perezguedesmaikel.github.io/clima/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
