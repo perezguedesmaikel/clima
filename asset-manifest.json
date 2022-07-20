@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/perezguedesmaikel/clima/static/css/main.abd64e84.css",
-    "main.js": "/perezguedesmaikel/clima/static/js/main.c476e01f.js",
-    "index.html": "/perezguedesmaikel/clima/index.html",
-    "main.abd64e84.css.map": "/perezguedesmaikel/clima/static/css/main.abd64e84.css.map",
-    "main.c476e01f.js.map": "/perezguedesmaikel/clima/static/js/main.c476e01f.js.map"
+    "main.css": "/clima/static/css/main.f3abe590.css",
+    "main.js": "/clima/static/js/main.934af7e4.js",
+    "index.html": "/clima/index.html",
+    "main.f3abe590.css.map": "/clima/static/css/main.f3abe590.css.map",
+    "main.934af7e4.js.map": "/clima/static/js/main.934af7e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.c476e01f.js"
+    "static/css/main.f3abe590.css",
+    "static/js/main.934af7e4.js"
   ]
 }
